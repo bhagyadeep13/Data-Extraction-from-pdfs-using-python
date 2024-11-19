@@ -70,3 +70,6 @@ The system consists of:
 
     - Ashwini Sharma Ma’am
     - Mamta Gupta Ma’am
+## License
+
+- This project is licensed under the MIT License.
